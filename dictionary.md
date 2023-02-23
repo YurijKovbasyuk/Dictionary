@@ -66,13 +66,21 @@
 > напр. background image — фоновое изображение.
 
 **background-color — цвет фона**
+
 **background-position — позиция фона**
+
 **background-size — размер фона**
+
 **background-repeat — повторение фона**
+
 **background-origin — границы фона**
+
 **background-clip — обрезка фона**
+
 **background-attachment — закрепление фона**
+
 **background-image — фоновое изображение**
+
 **baseline - базовая линия**
 
 > воображаемая линия в основании букв в строке.
@@ -98,16 +106,27 @@
 > внешняя видимая часть блока, напр. border-left — рамка слева.
 
 **border-collapse — слияние рамки**
+
 **border-color — цвет рамки**
+
 **border-image — графическая рамка**
+
 **border-image-outset — выступ графической рамки**
+
 **border-image-repeat — повторение графической рамки**
+
 **border-image-slice — разбивка графической рамки**
+
 **border-image-source — адрес изображения для графической рамки**
+
 **border-image-width — толщина графической рамки**
+
 **border-radius — скругление рамки**
+
 **border-style — стиль рамки**
+
 **border-width — ширина рамки**
+
 **border-radius - скругление рамки**
 
 > напр., border-radius: 3px — скругление рамки на 3 пикселя, border-top-left-radius — скругление верхнего левого угла, см. также скруглённые углы.
