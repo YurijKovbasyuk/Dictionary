@@ -378,11 +378,11 @@
 
 > экран, напр. экран смартфона, разрешение экрана. css-свойство, определяющее тип отображения блока.
 >
-> > display: none — скрытый вид
-> > display: block — блочный вид
-> > display: inline — строчный вид
-> > display: inline-block — вид строчного блока
-> > display: flex — вид флекс-контейнера (см. flexbox)
+> > display: none — скрытый вид  
+> > display: block — блочный вид  
+> > display: inline — строчный вид  
+> > display: inline-block — вид строчного блока  
+> > display: flex — вид флекс-контейнера (см. flexbox)  
 > > display: inline-flex — вид строчного флекс-контейнера (см. flexbox)
 
 **divitis - диватоз**
