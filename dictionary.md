@@ -353,7 +353,7 @@
 **deprecated - устаре́вший**
 
 > статус возможности языка, которая не рекомендуется к использованию, поскольку либо уже была заменена, удалена или будет в следующих версиях,
-> напр. this API is a replacement of the deprecated React.addons.cloneWithProps() — этот API замена устаревшему React.addons.cloneWithProps() или <applet> is deprecated in favor of <object> — <applet> помечен устаревшим в пользу <object>.
+> напр. this API is a replacement of the deprecated React.addons.cloneWithProps() — этот API замена устаревшему React.addons.cloneWithProps() или `<applet>` is deprecated in favor of `<object>` — `<applet>` помечен устаревшим в пользу `<object>`.
 
 **design - дизайн**
 
